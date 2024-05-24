@@ -1,0 +1,69 @@
+.weblogo {
+    width: 80px;
+    margin-left: 40px;
+}
+.navbar {
+    background: #00000082 !important;
+}
+
+.navbar-nav li {
+    padding: 0 10px;
+}
+
+.navbar-nav li a {
+    color: #fff !important;
+    font-weight: 800px;
+    font-size: 20px;
+}
+.avhomepic{
+    background-image: url(../image/residency3.jpg);
+    width: 100%;
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+}
+.a {
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family:'prague';
+    letter-spacing: 3px;
+    font-size: 80px;
+    color: #b49924;
+    font-weight:bolder;
+}
+.b {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+.footer {
+    background: #291340bc;
+    padding:30px;
+    color: #fff;
+}
+footer .img1234 {
+    width:50%;
+    margin-top: 30px;
+}
+
+
+.aaa {
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: fangsong;
+    letter-spacing: 3px;
+}
+/* foorter color pink- #F3E5F5 */
+/* #2913405f */
+@media(max-width:768px){
+    .navbar {
+        background:#291340e0 !important;
+    }
+    .img123{
+        width: 100%;
+        margin-top: 20px;
+    }
+}

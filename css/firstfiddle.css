@@ -1,0 +1,289 @@
+/* nav bar start */
+.weblogo {
+    width: 65px;
+}
+
+.navbar {
+    background: #00000082 !important;
+}
+
+.navbar-nav li {
+    padding: 0 10px;
+}
+
+.navbar-nav li a {
+    color: #fff !important;
+    font-weight: 600;
+    font-size: 20px;
+}
+.moblogo{
+    display: none;
+}
+
+
+/* nav bar end */
+.slid{
+    width: 100%;
+    height: 650px;
+
+}
+.a {
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family:'prague';
+    letter-spacing: 3px;
+}
+.b {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+
+.img123 {
+    width: 80%;
+}
+
+.c {
+    background-image: url(../image/media\ mention.jpg.jpg);
+    width: 100%;
+    height: 510px;
+    background-position: center;
+    background-size: cover;
+    margin-top: 30px;
+    padding-top: 100px;
+
+}
+
+.d {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    color: white;
+
+}
+
+.e {
+    color: white;
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+}
+
+.f {
+    background-image: url(../image/experience.png);
+    width: 100%;
+    height: 510px;
+    background-position: center;
+    background-size: cover;
+    margin-top: 30px;
+    padding-top: 100px;
+}
+
+.footer {
+    background: #020306f0;
+    padding: 50px;
+    color: #fff;
+}
+
+footer .img1234 {
+    width: 50%;
+    margin-top: 30px;
+}
+
+.aaa {
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px
+}
+
+
+.l {
+    background: black;
+    height: 100px;
+    padding-top: 30px;
+    width: 1600px;
+
+}
+.u{
+    background-color: #000;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+/* about section start */
+.aboutpic{
+    background-image: url(../image/about\ banner.jpg);
+    width: 100%;
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+}
+.gamechangerpic{
+    background-image: url(../image/game\ changer.jpg);
+    width: 100%;
+    height: 450px;
+
+
+}
+
+.d{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    color: white;
+}
+.e{
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: lighter;
+    padding-bottom: 2cm;
+}
+.theman{
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px
+}
+/* about section end */
+/* brand section start */
+.brandpic{
+    background-image: url(../image/brands.jpg);
+    width: 100%;
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+}
+/* brand section end */
+/* team section start */
+.teampic{
+    background-image: url(../image/team.jpg);
+    width: 100%;
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+}
+.pic1{
+    background-image: url(../image/YPAshok.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+.pic2{
+    background-image: url(../image/B.R.-Sachdeva.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+.pic3{
+    background-image: url(../image/Sagar-Bajaj.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+.pic4{
+    background-image: url(../image/jayphoto.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+.pic5{
+    background-image: url(../image/vibhutifiddle.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+/* team section end */
+/* press section start */
+.presspic{
+    background-image: url(../image/press\ release.jpg);
+    width: 100%;
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+    
+
+}
+.ms-2{
+    margin-left: .5rem !important;
+}
+.go{
+    line-height: 20px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 20px;
+    font-weight: lighter;
+    padding-bottom: 12px;
+}
+.read{
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    font-weight: lighter;
+}
+/* press section end */
+/* contact section start */
+.contactpic{
+    background-image: url(../image/CONTACT-US.jpg);
+    width: 100%;
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+    
+
+}
+.send{
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+}
+/* contact section end */
+/* career section start */
+.careerpic{
+    background-image: url(../image/careerspic.jpg);
+    width: 100%;
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+    
+}
+.ms-3{
+    margin-left: 1rem !important;
+}
+/* career section end */
+
+
+
+
+@media(max-width:768px)
+{
+    .moblogo{
+        display: block;
+    }
+    .weblogo{
+        display: none;
+    }
+    .navbar {
+        background: yellow !important;
+    }
+    .img123{
+        width: 100%;
+        margin-top: 20px;
+    }
+}
