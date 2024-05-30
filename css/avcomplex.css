@@ -2,6 +2,7 @@
     width: 80px;
     margin-left: 40px;
 }
+
 .navbar {
     background: #00000082 !important;
 }
@@ -15,23 +16,26 @@
     font-weight: 800px;
     font-size: 20px;
 }
-.avhomepic{
+
+.avhomepic {
     background-image: url(../image/residency3.jpg);
     width: 100%;
     height: 700px;
     background-position: center;
     background-size: cover;
 }
+
 .a {
     text-align: center;
     padding-top: 20px;
     text-transform: uppercase;
-    font-family:'prague';
+    font-family: 'prague';
     letter-spacing: 3px;
     font-size: 80px;
     color: #b49924;
-    font-weight:bolder;
+    font-weight: bolder;
 }
+
 .b {
     line-height: 35px;
     letter-spacing: 1px;
@@ -39,16 +43,43 @@
     padding-right: 5px;
     text-align: justify;
 }
+
 .footer {
     background: #291340bc;
-    padding:30px;
+    padding: 30px;
     color: #fff;
 }
+
 footer .img1234 {
-    width:50%;
+    width: 50%;
     margin-top: 30px;
 }
 
+.avaboutpic {
+    background-image: url(../image/about3.jpg);
+    width: 100%;
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+}
+
+.pic1 {
+    background-image: url(../image/manager.jpg);
+    width: 100%;
+    height: 15cm;
+    background-position: center;
+    background-size: cover;
+    padding-top: 220px;
+}
+
+.pic2 {
+    background-image: url(../image/manager2.jpg);
+    width: 100%;
+    height: 15cm;
+    background-position: center;
+    background-size: cover;
+    padding-top: 220px;
+}
 
 .aaa {
     padding-top: 20px;
@@ -56,14 +87,79 @@ footer .img1234 {
     font-family: fangsong;
     letter-spacing: 3px;
 }
+
+/* facilty div start */
+.avfacilitypic {
+    background-image: url(../image/facility2.jpg);
+    width: 100%;
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+    padding-left: 150px;
+}
+.avregistrationpic{
+    background-image: url(../image/registration5.jpg);
+    width: 100%;
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+}
+
+/* facilty div start */
 /* foorter color pink- #F3E5F5 */
 /* #2913405f */
-@media(max-width:768px){
+@media(max-width:768px) {
     .navbar {
-        background:#291340e0 !important;
+        background: #291340e0 !important;
     }
-    .img123{
+
+    .img123 {
         width: 100%;
         margin-top: 20px;
     }
+}
+
+.box {
+    border: 1px solid;
+    width: 250px;
+    height: 250px;
+    background: pink;
+    transition-property: width, height, background;
+    transition-duration: 0.5s, 0.5s, 0.5s;
+    transition: width, height, background 0.5s, 0.5s, 0.5s;
+}
+
+.box:hover {
+    width: 270px;
+    height: 270px;
+    background: orange;
+}
+
+.box2{
+    border: 5px solid ;
+    width: 300px;
+    height: 250px;
+    background: pink;
+    transition-property: width,height,background;
+    transition-duration: 2s,2s,2s;
+    transition: width,height,background 0.5s,0.5s,0.5s;
+}
+.box2:hover{
+    width: 320px ;
+    height: 280px;
+    background: orange;
+}
+.box3{
+    border: 1px solid ;
+    width: 400px;
+    height: 150px;
+    background: pink;
+    transition-property: width,height,background;
+    transition-duration: 1s,1s,1s;
+    transition: width,height,background 0.8s,0.8s,0.8s;
+}
+.box3:hover{
+    width: 440px ;
+    height: 150px;
+    background: orange;
 }
